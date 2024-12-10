@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud/static/css/main.3d21a612.css",
+    "main.js": "/crud/static/js/main.f8ad3ba5.js",
+    "index.html": "/crud/index.html",
+    "main.3d21a612.css.map": "/crud/static/css/main.3d21a612.css.map",
+    "main.f8ad3ba5.js.map": "/crud/static/js/main.f8ad3ba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d21a612.css",
+    "static/js/main.f8ad3ba5.js"
+  ]
+}
